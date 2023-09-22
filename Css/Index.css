@@ -1,0 +1,17 @@
+
+.header_nav{
+    list-style: none;
+    flex-direction: row;
+    padding: auto;
+    text-align: right;
+    
+}
+.header_nav i{
+    margin: 12px;
+}
+.header_nav .imagenfondo{
+    background-image: url("http://www.holamujer.cl/wp-content/uploads/2015/10/Fotolia_57254857_Subscription_Monthly_M-1.jpg");
+    background-repeat: repeat-Y;
+   background-size: cover;
+   
+}
